@@ -15,7 +15,7 @@ const Index = () => {
           Unleash your potential with our innovative solutions.
         </Text>
         <Button colorScheme="teal" size="lg" rightIcon={<FaRocket />}>
-          Get Started
+          Join the wolfpack
         </Button>
       </VStack>
     </Container>
