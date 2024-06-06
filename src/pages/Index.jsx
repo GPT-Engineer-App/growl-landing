@@ -1,4 +1,4 @@
-import { Container, Text, VStack, Button, Heading, Box, Image } from "@chakra-ui/react";
+import { Container, Text, VStack, Button, Heading, Box, Image, useDisclosure, Modal, ModalOverlay, ModalContent, ModalHeader, ModalFooter, ModalBody, ModalCloseButton, Input } from "@chakra-ui/react";
 import { FaRocket } from "react-icons/fa";
 
 const Index = () => {
